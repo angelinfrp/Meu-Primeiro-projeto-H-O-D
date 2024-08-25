@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto H-O-D README
 Meu primeiro projeto de maneira totalmente autônoma sobre a casa dos dragões, projeto base feito através de conhecimentos adquiridos no DEVQUEST, com efeito carrossel. 
 
@@ -8,4 +9,6 @@ Meu primeiro projeto de maneira totalmente autônoma sobre a casa dos dragões, 
 - HTML
 - CSS
 - JS
+=======
+>>>>>>> 4867ed1b64c2593efc754ca6c124916b959a1901
 
